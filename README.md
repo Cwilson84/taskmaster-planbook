@@ -24,7 +24,7 @@ N/A
 
 ## Screenshot
 
-![Screenshot of deployed site](/password-scrabble-screenshot.png?raw=true "Site Screenshot")
+![Screenshot of deployed site](./Develop/Screenshot-taskmaster-planbook.png"Site Screenshot")
 Or view it live [cwilson84.github.io/taskmaster-planbook](https://cwilson84.github.io/taskmaster-planbook/)!
 
 ## Credits
